@@ -9,6 +9,6 @@ same functionality as described in task #1, but now in java.
 Finally, be sure that you can show how your application responds to requests using postman,
 curl or any other HTTP client.
 
-#steps for solution
+# steps for solution
 Step 1: Create the API definition in Swagger Editor
 Go to https://editor.swagger.io/ and create a new API definition. Use the YAML code given above as a starting point
