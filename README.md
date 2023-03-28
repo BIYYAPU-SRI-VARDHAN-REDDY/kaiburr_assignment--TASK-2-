@@ -12,3 +12,16 @@ curl or any other HTTP client.
 # steps for solution
 Step 1: Create the API definition in Swagger Editor
 Go to https://editor.swagger.io/ and create a new API definition. Use the YAML code given above as a starting point
+
+This API definition defines four endpoints for getting all servers, adding a new server, getting a server by ID, and deleting a server by ID. It also defines a model for the Server object.
+
+Step 2: Generate the server code using Swagger Codegen
+Go to https://editor.swagger.io/ and click on "Generate Server" in the top menu. Choose the Java language and the server framework you want to use. You can choose from various frameworks such as Spring Boot, Vert.x, Jersey, and more.
+
+Once you have selected the framework, click on "Download" to download the generated code.
+
+Step 3: Implement the API functionality
+Open the generated code in your favorite IDE and implement the API functionality. You can use the code from Task #1 as a reference. Make sure that the endpoints and models match the ones defined in the API definition.
+
+Step 4: Run the server and test the API
+Run the server and test the API using Postman, curl or any other HTTP client. Make sure that the API
