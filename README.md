@@ -24,4 +24,4 @@ Step 3: Implement the API functionality
 Open the generated code in your favorite IDE and implement the API functionality. You can use the code from Task #1 as a reference. Make sure that the endpoints and models match the ones defined in the API definition.
 
 Step 4: Run the server and test the API
-Run the server and test the API using Postman, curl or any other HTTP client. Make sure that the API
+Run the server and test the API using Postman, curl or any other HTTP client. Make sure that the API.
